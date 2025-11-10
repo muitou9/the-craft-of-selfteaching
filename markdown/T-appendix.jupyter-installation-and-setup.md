@@ -246,6 +246,7 @@ Jupyter notebook 经过很多年的发展，现在有很多扩展插件，但也
 
 ```bash
 jupyter labextension install @jupyterlab/toc
+### 最新版本的 jupyter 已经内置 toc，该命令已经失效
 jupyter labextension install @ryantam626/jupyterlab_sublime
 jupyter lab build
 ```
