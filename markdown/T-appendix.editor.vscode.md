@@ -12,7 +12,7 @@
 ![](https://raw.githubusercontent.com/selfteaching/the-craft-of-selfteaching/master/images/vscode-shell.png?raw=true)
 
 ## 选择 Python 解析器版本
-
+### 这个命令在最新版本已经无效
 使用快捷键 `⇧⌘p` 呼出 Command Palette，在其中输入 `select interpreter`，而后选中 `Python: Select Interpreter`。
 
 ![](https://raw.githubusercontent.com/selfteaching/the-craft-of-selfteaching/master/images/vscode-select-python-version1.png?raw=true)
@@ -24,6 +24,10 @@
 ## 安装扩展
 
 使用快捷键 `⇧⌘x` 呼出扩展面板。安装 anaconda 扩展，它会连带装上 python 扩展：
+### 这个扩展在最新版本已经无效
+解决方法：安装如下 2 个插件
+> * https://marketplace.visualstudio.com/items?itemName=ms-python.python
+> * https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
 
 ![](https://raw.githubusercontent.com/selfteaching/the-craft-of-selfteaching/master/images/vscode-extensions.png?raw=true)
 
