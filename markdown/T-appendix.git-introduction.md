@@ -84,7 +84,11 @@ Mac 的操作系统 Mavericks (10.9) 以上版本中都内建有 Git，你可以
 git --version
 which git
 ```
+Mac 17 中没有内建 Git，可以通过命令安装：
 
+``` bash
+xcode-select --install
+```
 也可以通过 Homebrew 安装最新版本的 Git：
 
 ``` bash
